@@ -1,6 +1,8 @@
-Creating a compelling landing page for the launch of a new electric car, the "EcoDrive X1".
-Project Overview
-Event: Launch of EcoDrive X1
+**Name : Arisudan Verma
+Email id : arisudanv@gmail.com**
+**Project** :- Creating a compelling landing page for the launch of a new electric car, the "EcoDrive X1".
+**Project Overview**
+**Event: Launch of EcoDrive X1**
 •	Objective: To introduce and promote the new EcoDrive X1 electric car.
 •	Target Audience: Eco-conscious consumers, car enthusiasts, tech-savvy individuals, and early adopters.
 Design and Theme
